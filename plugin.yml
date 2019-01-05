@@ -1,0 +1,12 @@
+name: Jetpacks
+main: net.onyrihuhd.jetpacks.Jetpacks
+version: 1
+author: OnyrihuHD
+
+permissions:
+  jetpacks.jet:
+    default: op
+commands:
+  jet:
+    description: Toggle the jetpack
+    usage: /jet
